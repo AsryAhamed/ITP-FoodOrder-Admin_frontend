@@ -1,0 +1,14 @@
+.row1{
+    display: flex;
+
+  
+}
+.col1{
+    width: 23%;
+}
+.col2{
+    justify-content: center;
+    padding: 50px 40px 0px 90px;
+   
+    
+}

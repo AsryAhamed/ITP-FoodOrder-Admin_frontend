@@ -1,0 +1,25 @@
+.sidebar{
+    /* flex: none; */
+    border-right: 3px solid #272627;
+    border-left: 3px solid #201c20;
+    min-height: 100vh;
+    /* width: 115%; */
+    background-color: #ffffff;
+    color: #2e2b2e;
+}
+ul{
+   list-style: none;
+   margin: 0;
+    padding: 40px;
+    text-decoration:none;
+    /* background-color: rgb(155, 31, 31); */
+}
+.containor  li{
+    padding: 15px;
+    font-size: 20px;
+    border-bottom: 2px solid #1d1b1d; 
+    
+}
+a{
+    text-decoration: none;
+}

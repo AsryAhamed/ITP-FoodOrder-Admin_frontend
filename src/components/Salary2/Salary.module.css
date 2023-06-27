@@ -1,0 +1,69 @@
+.row{
+    text-align: center; 
+    color: white;
+    
+    
+   
+    background-color: #000000;
+}
+
+
+
+
+.col>h4{
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    
+    
+}
+
+.sah{
+    display: flex;
+    flex-basis: 50%; 
+    text-align: start;
+     justify-content: flex-start;  
+   
+   /* flex-wrap: wrap; */
+   background-color: antiquewhite;
+   height:100px;
+   color: black;
+   
+
+   
+
+}
+
+.saals{
+    height: 250px;
+}
+.col2>h4{
+    margin-top: 15px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    
+}
+
+.sag{
+    background-color:bisque;
+    color: #000000;
+}
+
+
+
+.fath{
+    background-color: #AC9B7E;
+    color: #000000;
+}
+
+.shm{
+    background-color: antiquewhite;
+    color: #000000;
+    
+}
+.shm>h2{
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+

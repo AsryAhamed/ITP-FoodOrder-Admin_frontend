@@ -1,0 +1,24 @@
+nav{
+    height: 80px;
+   
+    width: 100%;
+    background-color: rgb(25, 24, 26);
+    color: white;
+    
+}
+
+.icon{
+    display: flex;
+    /* flex-basis: 50%; */
+    justify-content: space-between;
+    /* background-color: red; */
+    /* justify-content: right;
+    justify-items: right; */
+}
+.icon2{
+     display: flex;
+    /* flex-basis: 80%; */
+    /* justify-content: right;
+    justify-items: right;  */
+    /* background-color: rgb(38, 236, 71); */
+}
