@@ -7,7 +7,7 @@ To run Food Train admin-side website locally, follow these steps:
 
   1. Clone the repository: git clone https://github.com/Aaathif/ITP-FoodOrder-Admin_frontend.git
   2. Install dependencies: yarn
-  3. Set up the database: [Provide instructions for setting up the required database]
+  3. Login user name and password: Asry, 12345
   4. Start the server: yarn start
   5. Access Food Train in your browser at http://localhost:3000
 
@@ -28,12 +28,13 @@ Food Train is built using the following technologies and frameworks:
 **Folder Structure**
 The project's folder structure is organized as follows:
 
-├── src      
-    ├── componentts    # Frontend admin side React components
-    ├── context        # athuentication and dark mode
-    ├── employee        # Employee managemnet related components
-    
-└── public             # Static files and assets
+├── src                # Source code files
+│   ├── components     # Reusable components
+│   ├── context        # athuentication and dark mode
+│   ├── pages          # Individual page components
+│   └── styles         # CSS stylesheets
+
+├── public             # Static files and assets
 
 **Future Enhancements**
 We have exciting plans for future enhancements, including:
@@ -41,4 +42,5 @@ We have exciting plans for future enhancements, including:
   1. Optimizing the interface to provide a seamless user experience across various devices, ensuring a responsive design for any screen width.
   2. Enhancing the real-time order tracking feature with additional data and timestamps, providing more accurate and up-to-date information.
   3. Implementing flexible administration registration options to accommodate different administrative roles and permissions.
+  4. Advanced analytics and reporting features to provide deeper insights into sales and customer behavior.
 
