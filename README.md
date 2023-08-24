@@ -25,17 +25,6 @@ Food Train is built using the following technologies and frameworks:
   2. Backend: Node.js, Express.js (https://github.com/Aaathif/ITP-FoodOrder-Backend.git)
   3. Database: MongoDB  
 
-## Folder Structure
-The project's folder structure is organized as follows:
-
-├── src                # Source code files
-│   ├── components     # Reusable components
-│   ├── context        # athuentication and dark mode
-│   ├── pages          # Individual page components
-│   └── styles         # CSS stylesheets
-
-├── public             # Static files and assets
-
 ## Future Enhancements
 We have exciting plans for future enhancements, including:
 
