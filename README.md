@@ -5,7 +5,7 @@ Food Train Admin is a comprehensive platform designed to streamline restaurant m
 ## Installation
 To run Food Train admin-side website locally, follow these steps:
 
-  1. Clone the repository: git clone https://github.com/IT21158018/ITP-FoodOrder-Admin_frontend.git
+  1. Clone the repository: git clone https://github.com/AsryAhamed/ITP-FoodOrder-Admin_frontend.git
   2. Install dependencies: yarn
   3. Login user name and password: Asry, 12345
   4. Start the server: yarn start
@@ -22,7 +22,7 @@ Once you have Food Train up and running, you can perform the following actions:
 Food Train is built using the following technologies and frameworks:
 
   1. Frontend: React.js, HTML, CSS
-  2. Backend: Node.js, Express.js (https://github.com/IT21158018/ITP-FoodOrder-Backend.git)
+  2. Backend: Node.js, Express.js (https://github.com/AsryAhamed/ITP-FoodOrder-Backend.git)
   3. Database: MongoDB  
 
 ## Future Enhancements
